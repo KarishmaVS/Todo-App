@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "from": "^0.1.7",
+    "import": "^0.0.6",
+    "react": "^17.0.2",
+    "React": "npm:react@^17.0.2",
+    "styled": "^1.0.0"
+  }
+}
